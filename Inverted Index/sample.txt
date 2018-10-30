@@ -1,0 +1,51 @@
+Main Categories for E-Commerce Payment Methods
+Online payments options generally fall into one of six meta-categories:
+ 
+Credit/Debit/Prepaid card payments: Cards represent the most popular worldwide payment method in the United States, Canada, Mexico, China, Korea, and most of Western Europe.
+
+Bank transfers: Some e-commerce websites prefer to instruct their customers to make bank transfers directly their accounts, often using an IBAN number.
+
+E-Wallets: E-wallets require customers and merchants to sign up and create accounts, then deposit and withdraw money from linked bank accounts. E-wallets like Paypal and AliPay are very popular in the United States and China, respectively.
+
+Cash: In India, Romania, Russia, and many other parts of the world, cash remains king – even for e-commerce. Not offering a cash-on-delivery service is a surefire way to miss out on these markets.
+
+Cryptocurrencies: Cryptocurrencies are rapidly gaining interest as a payment method for online transactions, particularly among young, moneyed professionals with IT expertise.
+
+Direct carrier payments: For some products and services, the ability to bill customers directly through their existing telephone or utility carrier is the most efficient way to effectuate payment.
+Each of the options listed below uses one or more of these six e-commerce payment methods to effectuate payments. Your e-commerce store can (and should) offer more than one option in order to attract the greatest number of customers, but you will find that cultural and industry norms tend to dictate what platform most of your customers prefer to use.
+1. Due
+ 
+Due
+Online credit card processing is one of the most popular ways e-commerce merchants get paid. While your bank is ultimately responsible for processing each transaction, the deal you sign will be with a payment gateway provider, like Due.
+While very common, there are downsides to online credit card processing schemes. For instance, rates tend to be high. This is crucial for start-ups who cannot reasonably rely on a significant minimum monthly transaction volume. Due is among the lowest-priced payment gateway operator on the market thanks to its flat-rate fee structure – banks will typically add monthly processing fees and transaction fees together.
+2. Paymill
+ 
+Paymill
+Paymill makes sure that your site can securely process debit cards, credit cards, and pre-paid cards. Paymill is based in Europe, but serves e-commerce transaction needs worldwide. It charges no monthly fees and no set-up fees, making it an attractive choice for new e-commerce store owners looking for a flexible, scalable payment processor.
+Debit card processors like Paymill should be easy to integrate – often with little more than a few lines of code integrated into your website. Always look for hidden fees, often called interchange downgrades or rate fluctuations in processor Terms and Conditions contracts.
+3. Adyen
+ 
+Adyen
+Most prepaid card processors also cover debit and credit card payments, like Adyendoes. This payment processing platform connects directly with the leading providers of prepaid cards, such as Visa and Mastercard. The company also offers integration with 28 other payment service providers. Since prepaid cards are directly linked to cash accounts, transactions generally occur quickly. Processors like Adyen offer reduced fees for these transactions.
+Adyen charges reasonable processing fees for credit, debit, and prepaid cards. The company’s minimum invoice of $120 per month means e-commerce stores will have to guarantee at least that much activity on a monthly basis.
+4. Paypal
+ 
+Paypal
+Paypal is one of the most popular payment processors on the Internet. What distinguishes Paypal from other payment processors is the fact that both customers and merchants withdraw and deposit from Paypal accounts separately from their individual bank accounts. This classifies PayPal as a managed bank transfer service. It establishes a level of trust between you and your customers. It also reserves the right to settle disputes on your behalf.
+PayPal charges transaction fees both into and out of your account. This  can make it an expensive choice for e-commerce store owners dealing in large volume, low-value items.
+
+5. Cash on Delivery with FedEx
+ 
+Fedex
+In the United States, Cash on Delivery (C.O.D) is rarely used as a payment processing service for e-commerce stores. However, C.O.D remains the most common form of payment in Eastern Europe and the Indian subcontinent, as well as in many other places around the world. If your e-commerce store serves customers who expect to be able to pay in cash, you need to use a courier service that can accept cash and reliably issue you a check for the price of the goods you ship. FedEx is preferable because it accepts cash whereas other courier companies only accept checks and money orders.
+6. BitCoin
+ 
+ 
+Bitcoin
+Bitcoin is the newest and most exciting financial instrument making headlines today. Cryptocurrencies are not yet in wide use, but offer a range of advantages to e-commerce businesses. Bitcoin’s current popularity largely stems from the ability to make secure, anonymous payments to and from individuals in an untraceable manner. This has made it the first choice payment method for everything from questionably ethical services to downright illegal enterprises.
+Implementing Bitcoin on your e-commerce website doesn’t automatically brand you as a hacker or arms dealer, though. Bitcoin can attract a highly educated, computer-savvy customer base from all across the world. This makes it a great option for any e-commerce business in the tech sector. Use a platform like BitPay to integrate Bitcoin payments with relative ease.
+7. mBill
+ 
+mBill
+mBill is a mobile payments service provider that offers direct carrier payment processing services, among other payment methods. Direct carrier payments make it very easy for customers to pay for goods and services online. Their purchases simply show up on the next month’s phone bill. It is compatible with nearly every mobile phone carrier operating in the United States and in 80 countries worldwide.
+
